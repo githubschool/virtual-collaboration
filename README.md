@@ -1,4 +1,4 @@
-# GitHub for Developers 2.0!!!
+# GH4D
 
 - Class Date: 
 - Facilitator: @gusshawstewart
